@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-for-map-365903",
+  "private_key_id": "08955268271330d8b89ad6bcbabbe5f856447bda",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCve2KkKn4jHKc6\nx/6LayvXJlbeGH6r++Q2gHgwrsBqXtspahOYSVkobM+NoeVVgGCfsdWrQpHhQzzL\nNd5SvFrFlxYYaTqksObzabfw49SADbBcCHq0f625i+uKb8PF7omx15MTudxn4TQ9\nhUvfWEIrqllZlWCsZu9NzUwm0DbKDFNUdzNGZDhUCkuJ11azdnn6Vgyu1V+Tijqq\nY6e/tmV0kGvOApq1al2j3xryC8hnBh5/oYPu7zHncrap2+pF8dUaehtl35OFz2cf\noZWrLsYL+Hr7g06KZ5FZ8uqj2zJiOFdISxsPabi8uLjHHxsIGid8eQOODsuEVCl5\nAJpBPHMlAgMBAAECggEAEo3D6fIhOJKqvs0PBYwtDDg+RojF+eat5DJUoucTKpwB\nZaFU1Yzpy5unnUTBE/d5H+FkY1FsTao3hw/YxBwsp8gX+rhDjk6y+IkUvPhFy01H\nOI/f824tftkDrDUxeJ/GOMK/hv4nhuc5iAisMz7obif6fv2LhWbzxeDfPJpWtKmI\nN3erSaAnI0oSr1YCsBZMzIxoxuC2RY6AajbuaQGUCtY2KvroNJEqgqCq2WoxIfIF\nCB5YSLeqXXVsX5JjnnL00tb89DgPc1w8AtfsJXXsu0ESZv1TuRpIPraZtU9XBk0J\n+vweefTzU47d5q5CzEHbMjaYaM0u/0njgDA34Z9IgQKBgQDzCCAajffJ6K6iUYY4\nJZgKtUth7m0g3SFWCBfX0QPqENb8tCdJEfFQysf87qCKXfA6YKGJJGFSCrDm9yBT\neers4JzShexNwYBMnVgWAtXBh+mOepF5y31E/Tp3l3zks7TbpG1BUd4ZAvc4f6Dt\n1k0AKl+EN/gx938wTQFFXCQupQKBgQC42INdkx7m74B+97rmmP1e9HUQuin4C610\nXCAHKtDsOOL8zhk7SbOflQDuxr6nHFsZTqwshES9NnUs615l3DvWyU9GvinoXS4N\nSf6vjTpDYU9JAuO/SI2Sh6M8mqs6jF1wGA3viPnBWFf6mhO64vSVrnzkmL4YvjQk\nSvoOH6yKgQKBgDNy+ujkORrDaYTvYUytmLxbmPPId83HQnFmETYdB4kbu4eP0+lC\nJSYHZ8MB+XaRYHPbVRclXnzxynV6x5skajlva4Od2mKznieZ/7XZL8tirGz/QaDZ\nFVHvkdsTdNstuBHvgzmazTvaRt/tFPKEtZRdZA8nkiFx1bkx9Bzs3rQJAoGAdV2k\nK2oamO9BW1zYY0qIth3pprFNrJ1diSBlhad9+D82gOYrxyVI0+68JOA0dc7fWPZH\nBA0HyEwnolngGjT4GazAlV5xJYTklLOC7txxPg8vVGBtUysyGPPehcB/MDGnsmDT\nmGAUlNsPIaNrG6K3QcMEsfD54qQCX3jrxMP/vgECgYEApZgdFQ+aurAFu471D7Xz\nSJUgvrl4KBECIV+5fSVIupLqGgG2a0mkNxqrgnl29b/EKT9nd2F0CISa5f0dD42t\nw6wSZl/1lpaJ5WRIjWxXPyud4T6mMqE7O7Rfq6jyfJa/yDAkDcuWpcJTbDWAtHgO\nrSqyoirVbQcBEeX/23KapSs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage-service@project-for-map-365903.iam.gserviceaccount.com",
+  "client_id": "117189800491338749411",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage-service%40project-for-map-365903.iam.gserviceaccount.com"
+}
